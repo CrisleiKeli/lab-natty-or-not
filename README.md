@@ -27,7 +27,7 @@ Este podcast oferece um passeio rápido, pelo mundo das IAs Generativas e sua in
 🚀 Resultados
 O episódio é uma introdução acessível e estimulante ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
 
-LINK PARA O PODCAST AQUI: - [ÁUDIO](IAS GENERATIVAS.mp3) 
+LINK PARA O PODCAST AQUI: 
 
 💭 Reflexão
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
